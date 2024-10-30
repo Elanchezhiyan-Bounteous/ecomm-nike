@@ -1,0 +1,6 @@
+@ecomm_nike_HostAddress = http://localhost:5057
+
+GET {{ecomm_nike_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
