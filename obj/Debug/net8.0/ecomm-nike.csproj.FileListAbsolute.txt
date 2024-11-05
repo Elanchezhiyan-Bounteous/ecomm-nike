@@ -111,3 +111,12 @@ C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\obj\Debug\net8.
 C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\obj\Debug\net8.0\ref\ecomm-nike.dll
 C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\Npgsql.Json.NET.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWSSDK.EventBridge.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\obj\Debug\net8.0\ecomm-nike.sourcelink.json
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWS.Messaging.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWSSDK.SimpleNotificationService.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\AWSSDK.SQS.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\ElanchezhiyanVaradha\Documents\ecommercenike\ecomm-nike\bin\Debug\net8.0\Sprache.dll

@@ -50,6 +50,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AWS.Messaging": {
+              "target": "Package",
+              "version": "[0.9.2, )"
+            },
+            "AWSSDK.EventBridge": {
+              "target": "Package",
+              "version": "[4.0.0-preview, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.301, )"
+            },
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[4.0.0-preview, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.5, )"
